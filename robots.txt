@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alamin.github.io/sitemap.xml
+Sitemap: https://amin1729.github.io/alamin.github.io//sitemap.xml
